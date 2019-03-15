@@ -1,6 +1,6 @@
 <?php
 
-print "Escreva o valor em metros:\n\n";
+print "Escreva o valor em metros quadrados:\n\n";
 
 $valorm = (float) fgets (STDIN);
 $valormm = $valorm*1000;
